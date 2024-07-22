@@ -31,7 +31,7 @@ path=CamaraPrincipal.cpp
 cursor=45:1
 [source]
 path=Personaje.cpp
-cursor=193:2
+cursor=209:31
 open=true
 [source]
 path=Mapa.cpp
